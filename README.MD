@@ -13,9 +13,9 @@ terminal.py : A program that defines terminal category functions such as map cli
 
 manager.py  : A program that defines manegorial category functions such as authentication, creating and disconnecting clients, sending messages to rooms, and listing available chat rooms. <br />
 
-Prerequisites
-Python 3.x installed
-Command line interface
+Prerequisites <br />
+Python 3.x installed <br />
+Command line interface <br />
 
 Run
 Run the server program in terminal:
