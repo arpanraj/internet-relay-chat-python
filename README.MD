@@ -17,11 +17,11 @@ Prerequisites <br />
 Python 3.x installed <br />
 Command line interface <br />
 
-Run
-Run the server program in terminal:
-python server.py
-In another terminal window, run the client program:
-python client.py
+Run <br />
+Run the server program in terminal: 
+python server.py <br />
+In another terminal window, run the client program: 
+python client.py <br />
 
-License
+License <br />
 This project is licensed under the MIT License - see the LICENSE file for details.
